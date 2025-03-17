@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ashlynnbaker16/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/Computer Science Lecture/HW assignments.cpp/hw_6_TextProcessing.cpp",
+      "program": "/Users/ashlynnbaker16/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/Computer Science Lecture/HW assignments.cpp/hw_6_TextProcessing.cpp/build/Debug/outDebug"
+    }
+  ]
+}

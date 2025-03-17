@@ -1,0 +1,21 @@
+Word Frequencies: 
+silent: 1
+are: 1
+listen: 1
+madam: 1
+racecar: 1
+am: 1
+and: 1
+adam: 1
+drive: 1
+you: 1
+test: 1
+i: 3
+but: 1
+a: 2
+is: 1
+this: 1
+brother is NOT a palindrome.
+dump and truck are NOT anagrams
+Palindromes found: 7
+Anagrams found: 3
